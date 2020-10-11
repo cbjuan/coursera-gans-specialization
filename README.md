@@ -7,3 +7,7 @@ Assignments from Course 1: [Build Basic Generative Adversarial Networks (GANs)](
 - Week 1: Intro to GANs
   - [Assignment](./Course1/C1W1_Your_First_GAN.ipynb)
   - [Solved](Course1/C1W1_Your_First_GAN_solved.ipynb)
+
+- Week 2: Deep Convolutional GANs
+  - [Assignment](./Course1/C1_W2_Assignment.ipynb)
+  - [Solved](Course1/C1_W2_Assignment_solved.ipynb)
