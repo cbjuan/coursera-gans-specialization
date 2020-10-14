@@ -16,4 +16,4 @@ Assignments from Course 1: [Build Basic Generative Adversarial Networks (GANs)](
 
 - Week 3: Wasserstein GANs with Gradient Penalty
   - [Assignment](./Course1/C1W3_WGAN_GP.ipynb)
-  - [Assignment](./Course1/C1W3_WGAN_GP_solved.ipynb)
+  - [Solved](./Course1/C1W3_WGAN_GP_solved.ipynb)
