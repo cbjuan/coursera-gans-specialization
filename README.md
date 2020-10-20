@@ -18,3 +18,6 @@ Assignments from Course 1: [Build Basic Generative Adversarial Networks (GANs)](
   - [Assignment](./Course1/C1W3_WGAN_GP.ipynb)
   - [Solved](./Course1/C1W3_WGAN_GP_solved.ipynb)
   - [Optional notebook](./Course1/SNGAN.ipynb)
+
+- Week 4: Conditional GAN & Controllable Generation
+  - [Assignment](./Course1/C1W4A_Build_a_Conditional_GAN.ipynb)
