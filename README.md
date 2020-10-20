@@ -20,4 +20,5 @@ Assignments from Course 1: [Build Basic Generative Adversarial Networks (GANs)](
   - [Optional notebook](./Course1/SNGAN.ipynb)
 
 - Week 4: Conditional GAN & Controllable Generation
-  - [Assignment](./Course1/C1W4A_Build_a_Conditional_GAN.ipynb)
+  - [Assignment 1](./Course1/C1W4A_Build_a_Conditional_GAN.ipynb)
+  - [Assignment 1 Solved](./Course1/C1W4A_Build_a_Conditional_GAN_solved.ipynb)
