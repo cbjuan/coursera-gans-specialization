@@ -15,10 +15,11 @@ Assignments from Course 1: [Build Basic Generative Adversarial Networks (GANs)](
   - [Solved](Course1/C1_W2_Assignment_solved.ipynb)
 
 - Week 3: Wasserstein GANs with Gradient Penalty
+
   - [Assignment](./Course1/C1W3_WGAN_GP.ipynb)
   - [Solved](./Course1/C1W3_WGAN_GP_solved.ipynb)
   - [Optional notebook](./Course1/SNGAN.ipynb)
 
 - Week 4: Conditional GAN & Controllable Generation
-  - [Assignment 1](./Course1/C1W4A_Build_a_Conditional_GAN.ipynb)
-  - [Assignment 1 - solved](./Course1/C1W4A_Build_a_Conditional_GAN_solved.ipynb)
+  - [Assignment 1. Conditional GAN](./Course1/C1W4A_Build_a_Conditional_GAN.ipynb)
+  - [Assignment 1. Conditional GAN - solved](./Course1/C1W4A_Build_a_Conditional_GAN_solved.ipynb)
