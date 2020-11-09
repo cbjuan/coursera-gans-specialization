@@ -1,4 +1,4 @@
-# coursera-gans-specialization
+a# coursera-gans-specialization
 
 Gathering the code submissions from the Generative Adversarial Networks (GANs) Specialization @ Coursera & deeplearning.ai <https://www.coursera.org/specializations/generative-adversarial-networks-gans>
 
@@ -25,3 +25,10 @@ Assignments from Course 1: [Build Basic Generative Adversarial Networks (GANs)](
   - [Assignment 1. Conditional GAN - solved](./Course1/C1W4A_Build_a_Conditional_GAN_solved.ipynb)
   - [Assignment 2. Controllable Generation](./Course1/C1W4B_Controllable_Generation.ipynb)
   - [Assignment 2. Controllable Generation - solved](./Course1/C1W4B_Controllable_Generation_solved.ipynb)
+
+ssignmentAssignments from Course 1: [Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans/home/welcome)
+
+- Week 1: Evaluation of GANs
+
+  - [Assignment](./Course2/C2W1_Assignment.ipynb)
+  - [Solved](./Course2/C2W1_Assignment_solved.ipynb)
