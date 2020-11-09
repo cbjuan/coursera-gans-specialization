@@ -32,3 +32,4 @@ ssignmentAssignments from Course 1: [Build Better Generative Adversarial Network
 
   - [Assignment](./Course2/C2W1_Assignment.ipynb)
   - [Solved](./Course2/C2W1_Assignment_solved.ipynb)
+  - [Optional notebook](./Course2/PPL.ipynb)
