@@ -39,3 +39,4 @@ ssignmentAssignments from Course 1: [Build Better Generative Adversarial Network
   - [Optional notebook - VAEs](./Course2/C2W2_VAE.ipynb)
   - [Assignment - Bias](./Course2/C2W2_Assignment.ipynb)
   - [Solved - Bias](./Course2/C2W2_Assignment.ipynb)
+  - [Solved - Quiz - Analyzing bias](./Course2/Screenshot_2020-11-12AnalyzingBiasCoursera.png)
