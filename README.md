@@ -33,3 +33,7 @@ ssignmentAssignments from Course 1: [Build Better Generative Adversarial Network
   - [Assignment - Evaluating GANs](./Course2/C2W1_Assignment.ipynb)
   - [Solved - Evaluating GANs](./Course2/C2W1_Assignment_solved.ipynb)
   - [Optional notebook - Perceptual Path Length](./Course2/PPL.ipynb)
+
+- Week 2: GAN Disadvantages and Bias
+
+  - [Optional notebook - VAEs](./Course2/C2W2_VAE.ipynb)
