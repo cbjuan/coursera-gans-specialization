@@ -22,9 +22,9 @@ Assignments from Course 1: [Build Basic Generative Adversarial Networks (GANs)](
 
 - Week 4: Conditional GAN & Controllable Generation
   - [Assignment 1. Conditional GAN](./Course1/C1W4A_Build_a_Conditional_GAN.ipynb)
-  - [Assignment 1. Conditional GAN - solved](./Course1/C1W4A_Build_a_Conditional_GAN_solved.ipynb)
+  - [Solved - Conditional GAN](./Course1/C1W4A_Build_a_Conditional_GAN_solved.ipynb)
   - [Assignment 2. Controllable Generation](./Course1/C1W4B_Controllable_Generation.ipynb)
-  - [Assignment 2. Controllable Generation - solved](./Course1/C1W4B_Controllable_Generation_solved.ipynb)
+  - [Solved - Controllable Generation](./Course1/C1W4B_Controllable_Generation_solved.ipynb)
 
 ssignmentAssignments from Course 1: [Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans/home/welcome)
 
@@ -37,3 +37,5 @@ ssignmentAssignments from Course 1: [Build Better Generative Adversarial Network
 - Week 2: GAN Disadvantages and Bias
 
   - [Optional notebook - VAEs](./Course2/C2W2_VAE.ipynb)
+  - [Assignment - Bias](./Course2/C2W2_Assignment.ipynb)
+  - [Solved - Bias](./Course2/C2W2_Assignment.ipynb)
