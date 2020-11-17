@@ -40,3 +40,7 @@ ssignmentAssignments from Course 1: [Build Better Generative Adversarial Network
   - [Assignment - Bias](./Course2/C2W2_Assignment.ipynb)
   - [Solved - Bias](./Course2/C2W2_Assignment.ipynb)
   - [Solved - Quiz - Analyzing bias](./Course2/Screenshot_2020-11-12AnalyzingBiasCoursera.png)
+
+- Week 3: StyleGAN and Advancements
+
+  - [Assignment - Components of StyleGAN](./Course2/C2W3_Assignment.ipynb)
