@@ -45,3 +45,5 @@ ssignmentAssignments from Course 1: [Build Better Generative Adversarial Network
 
   - [Assignment - Components of StyleGAN](./Course2/C2W3_Assignment.ipynb)
   - [Solved - Components of StyleGAN](./Course2/C2W3_Assignment_solved.ipynb)
+  - [Optional notebook - StyleGAN2](./Course2/StyleGAN2.ipynb)
+  - [Optional notebook - BigGAN](./Course2/BigGAN.ipynb)
