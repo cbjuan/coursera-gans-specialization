@@ -47,3 +47,4 @@ ssignmentAssignments from Course 1: [Build Better Generative Adversarial Network
   - [Solved - Components of StyleGAN](./Course2/C2W3_Assignment_solved.ipynb)
   - [Optional notebook - StyleGAN2](./Course2/StyleGAN2.ipynb)
   - [Optional notebook - BigGAN](./Course2/BigGAN.ipynb)
+  - [Optional Notebook - Finetuning Notebook: FreezeD (Colab)](<https://colab.research.google.com/github/https-deeplearning-ai/GANs-Public/blob/master/C2W3_FreezeD_(Optional).ipynb>)
