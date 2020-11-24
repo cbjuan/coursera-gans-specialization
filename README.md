@@ -48,3 +48,9 @@ Assignments from Course 2: [Build Better Generative Adversarial Networks (GANs)]
   - [Optional notebook - StyleGAN2](./Course2/StyleGAN2.ipynb)
   - [Optional notebook - BigGAN](./Course2/BigGAN.ipynb)
   - [Optional Notebook - Finetuning Notebook: FreezeD (Colab)](<https://colab.research.google.com/github/https-deeplearning-ai/GANs-Public/blob/master/C2W3_FreezeD_(Optional).ipynb>)
+
+Assignments from Course 3: [Apply Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/apply-generative-adversarial-networks-gans/home/welcome)
+
+- Week 1: GANs for Data Augmentation and Privacy
+
+  - [Assignment - Data Augmentation](./Course3/C3W1_Assignment.ipynb)
