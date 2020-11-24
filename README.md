@@ -26,7 +26,7 @@ Assignments from Course 1: [Build Basic Generative Adversarial Networks (GANs)](
   - [Assignment 2. Controllable Generation](./Course1/C1W4B_Controllable_Generation.ipynb)
   - [Solved - Controllable Generation](./Course1/C1W4B_Controllable_Generation_solved.ipynb)
 
-ssignmentAssignments from Course 1: [Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans/home/welcome)
+Assignments from Course 2: [Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans/home/welcome)
 
 - Week 1: Evaluation of GANs
 
