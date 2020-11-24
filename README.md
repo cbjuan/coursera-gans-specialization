@@ -54,3 +54,4 @@ Assignments from Course 3: [Apply Generative Adversarial Networks (GANs)](https:
 - Week 1: GANs for Data Augmentation and Privacy
 
   - [Assignment - Data Augmentation](./Course3/C3W1_Assignment.ipynb)
+  - [Solved - Data Augmentation](./Course3/C3W1_Assignment_solved.ipynb)
