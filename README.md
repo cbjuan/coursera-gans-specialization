@@ -59,5 +59,5 @@ Assignments from Course 3: [Apply Generative Adversarial Networks (GANs)](https:
 
   - Week 2: Image-to-Image Translation with Pix2Pix
 
-  - [Assignment - U-Net](./Course3/C3W2_Assignment.ipynb)
-  - [Solved - U-Net](./Course3/C3W2_Assignment_solved.ipynb)
+  - [Assignment - U-Net](./Course3/C3W2A_Assignment.ipynb)
+  - [Solved - U-Net](./Course3/C3W2A_Assignment_solved.ipynb)
