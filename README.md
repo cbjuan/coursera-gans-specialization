@@ -61,3 +61,5 @@ Assignments from Course 3: [Apply Generative Adversarial Networks (GANs)](https:
 
   - [Assignment - U-Net](./Course3/C3W2A_Assignment.ipynb)
   - [Solved - U-Net](./Course3/C3W2A_Assignment_solved.ipynb)
+  - [Assignment - Pix2Pix](./Course3/C3W2B_Assignment.ipynb)
+  - [Solved - Pix2Pix](./Course3/C3W2B_Assignment_solved.ipynb)
