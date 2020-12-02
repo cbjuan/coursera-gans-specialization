@@ -63,3 +63,7 @@ Assignments from Course 3: [Apply Generative Adversarial Networks (GANs)](https:
   - [Solved - U-Net](./Course3/C3W2A_Assignment_solved.ipynb)
   - [Assignment - Pix2Pix](./Course3/C3W2B_Assignment.ipynb)
   - [Solved - Pix2Pix](./Course3/C3W2B_Assignment_solved.ipynb)
+  - [Optional - Pix2PixHD](<https://colab.research.google.com/github/https-deeplearning-ai/GANs-Public/blob/master/C3W2_Pix2PixHD_(Optional).ipynb>)
+  - [Optional - Pix2PixHD](<https://colab.research.google.com/github/https-deeplearning-ai/GANs-Public/blob/master/C3W2_Pix2PixHD_(Optional).ipynb>)
+  - [Optional - Super-resolution GAN (SRGAN)](<https://colab.research.google.com/github/https-deeplearning-ai/GANs-Public/blob/master/C3W2_SRGAN_(Optional).ipynb>)
+  - [Optional - GauGAN](<https://colab.research.google.com/github/https-deeplearning-ai/GANs-Public/blob/master/C3W2_GauGAN_(Optional).ipynb>)
