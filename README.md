@@ -57,7 +57,7 @@ Assignments from Course 3: [Apply Generative Adversarial Networks (GANs)](https:
   - [Solved - Data Augmentation](./Course3/C3W1_Assignment_solved.ipynb)
   - [Optional Notebook - Generative Teaching Networks (GTN) - Colab](<https://colab.research.google.com/github/https-deeplearning-ai/GANs-Public/blob/master/C3W1_Generative_Teaching_Networks_(Optional).ipynb>)
 
-  - Week 2: Image-to-Image Translation with Pix2Pix
+- Week 2: Image-to-Image Translation with Pix2Pix
 
   - [Assignment - U-Net](./Course3/C3W2A_Assignment.ipynb)
   - [Solved - U-Net](./Course3/C3W2A_Assignment_solved.ipynb)
