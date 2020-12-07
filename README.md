@@ -67,3 +67,8 @@ Assignments from Course 3: [Apply Generative Adversarial Networks (GANs)](https:
   - [Optional - Pix2PixHD](<https://colab.research.google.com/github/https-deeplearning-ai/GANs-Public/blob/master/C3W2_Pix2PixHD_(Optional).ipynb>)
   - [Optional - Super-resolution GAN (SRGAN)](<https://colab.research.google.com/github/https-deeplearning-ai/GANs-Public/blob/master/C3W2_SRGAN_(Optional).ipynb>)
   - [Optional - GauGAN](<https://colab.research.google.com/github/https-deeplearning-ai/GANs-Public/blob/master/C3W2_GauGAN_(Optional).ipynb>)
+
+- Week 3: Unpaired Translation with CycleGAN
+
+  - [Assignment - CycleGAN](./Course3/C3W3_Assignment.ipynb)
+  - [Solved - CycleGAN](./Course3/C3W3_Assignment_solved.ipynb)
